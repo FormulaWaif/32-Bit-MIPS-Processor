@@ -12,7 +12,6 @@
 - [Testing](#testing)
 - [Usage](#usage)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Introduction
 
